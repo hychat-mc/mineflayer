@@ -15,12 +15,12 @@
 	},
 	"dependencies": {
 		"consola": "^2.15.3",
-		"discord.js": "^13.5.1",
-		"dotenv": "^10.0.0",
-		"mineflayer": "^3.14.1"
+		"discord.js": "^13.6.0",
+		"dotenv": "^14.3.2",
+		"mineflayer": "^3.15.0"
 	},
 	"devDependencies": {
 		"ts-node-dev": "^1.1.8",
-		"typescript": "^4.5.4"
+		"typescript": "^4.5.5"
 	}
 }
