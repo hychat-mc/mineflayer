@@ -12,6 +12,7 @@ This application is split into separate components and organized into folders. A
 - [🤖 discord: Discord Bot](https://github.com/hychat-mc/hychat/tree/master/discord)
 - [~~⛏️ mineflayer: Hypixel Bot~~](https://github.com/hychat-mc/hychat/tree/master/mineflayer)
 - [ℹ️ website: Front-End Website](https://github.com/hychat-mc/website)
+- [🌐 backend: Backend Functionality](https://github.com/hychat-mc/backend)
 
 ## License
 
